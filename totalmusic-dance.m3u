@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TotalMusicDance" tvg-name="TotalMusic Dance" tvg-logo="https://raw.githubusercontent.com/jhruby49/totalmusic-dance/main/totalmusic-dance.png" group-title="Dance",TotalMusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
